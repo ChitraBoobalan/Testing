@@ -1,0 +1,3 @@
+Stlc is software testing life cycle which includes two testing 
+Manual testing
+Automation testing
