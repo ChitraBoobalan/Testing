@@ -1,0 +1,2 @@
+ This process helps identify bugs, defects, 
+and issues that might not be caught by automated testing. 
